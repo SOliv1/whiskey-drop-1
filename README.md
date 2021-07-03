@@ -2,6 +2,10 @@
 #Whiskey Drop  Number 1
 ##Bootstrap 4
 
+You can view the website here:
+https://soliv1.github.io/whiskey-drop-1/
+
+
 A very interesting set of lessons all about how to work with bootstrap and the
 many ways it can be useful for building a website.
 Bootstrap, customizing with bespoke designs will to help your site stand out
